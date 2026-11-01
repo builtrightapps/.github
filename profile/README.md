@@ -10,6 +10,6 @@ and finish tools people have started with AI and got stuck on. You own everythin
 - Email: [hello@builtrightapps.com](mailto:hello@builtrightapps.com)
 - Based in Victoria, Australia
 
-Client work lives in private repositories. Some of my own tooling is public here as it's ready.
+Client work is in private repositories, so there's nothing to browse here yet.
 
 Simon
